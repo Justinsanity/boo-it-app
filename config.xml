@@ -12,4 +12,8 @@
     <platform name="android">
        <icon src="www/img/logo.png" />
     </platform>
+    <platform name="ios">
+        <icon src="www/img/logo.png" />
+    </platform>
+    <allow-navigation href="http://boo-it.herokuapp.com/*" />
 </widget>
